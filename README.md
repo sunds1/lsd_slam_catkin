@@ -306,4 +306,7 @@ For commercial purposes, we also offer a professional version under different li
 
 
 
-# lsd_slam_catkin
+# for catkin
+http://visbot.blogspot.de/2014/11/tutorial-building-of-lsd-slam-on-ros.html
+# pointcloud view
+https://github.com/tum-vision/lsd_slam/issues/64
